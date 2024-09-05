@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #20232a;
+}
+
+.signup-container {
+  background-color: #282c34;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  width: 100%;
+  max-width: 400px;
+  color: #61dafb;
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+  color: #61dafb;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input, select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border-radius: 4px;
+  border: 1px solid #61dafb;
+  background-color: #20232a;
+  color: #ffffff;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 4px;
+  color: #20232a;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4fa3c1;
+}
+
+#message {
+  margin-top: 10px;
+  text-align: center;
+  color: #ff4d4d;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('https://stackblitz.com/storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenBqRHc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--99e11711b0f0c22e30756070a1ce7b237299d9b2/playerunknown-s-battlegrcall%20duty.jpg'); /* Add your background image URL here */
+  background-size: cover; /* Ensure the image covers the entire background */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent repeating the image */
+}
+
+.signup-container {
+  background-color: rgba(40, 44, 52, 0.9); /* Slightly transparent background for readability */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  width: 100%;
+  max-width: 400px;
+  color: #61dafb;
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+  color: #61dafb;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input, select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border-radius: 4px;
+  border: 1px solid #61dafb;
+  background-color: #20232a;
+  color: #ffffff;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 4px;
+  color: #20232a;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4fa3c1;
+}
+
+#message {
+  margin-top: 10px;
+  text-align: center;
+  color: #ff4d4d;
+}
